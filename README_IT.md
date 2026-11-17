@@ -87,4 +87,4 @@ Progetto di gruppo sviluppato con i miei compagni per il corso AAIR della Laurea
 Leonardo Masi
 
 - Portfolio: https://masileonardo.github.io/#tangent-bug
-- LinkedIn: https://www.linkedin.com/in/leonardo-masi-b09b28219/
+- LinkedIn: https://www.linkedin.com/in/leonardo-masi02
