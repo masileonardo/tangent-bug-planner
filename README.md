@@ -123,4 +123,4 @@ Group project developed with my classmates for the AAIR course of the Master's d
 Leonardo Masi
 
 - Portfolio: https://masileonardo.github.io/#tangent-bug
-- LinkedIn: https://www.linkedin.com/in/leonardo-masi-b09b28219/
+- LinkedIn: https://www.linkedin.com/in/leonardo-masi02
